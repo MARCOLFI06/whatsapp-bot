@@ -49,15 +49,18 @@
     },
     "STEP_1_1":{
         "replyMessage":[
-            "Ahora te compartimos la siguiente tabla para que compares lo que cada una de nuestras secciones te ofrece. Una vez finalizado escribe *YA* \n"
-            
+            "Ahora te compartimos la siguiente tabla para que compares lo que cada una de nuestras secciones te ofrece.⬇️⬇️  \n",
+            "Una vez finalizado escribe: \n",
+            "✳️*YA* \n"
         ],
         "media":"TablaCompEsp.pdf", 
         "trigger":null
     },
     "STEP_2_1":{
         "replyMessage":[
-            "Nous partageons maintenant avec vous le tableau suivant afin que vous puissiez comparer ce que chacune de nos sections vous offre. Une fois que vous avez terminé, tapez *COMMENCER*. \n"
+            "Nous partageons maintenant avec vous le tableau suivant afin que vous puissiez comparer ce que chacune de nos sections vous offre.⬇️⬇️  \n",
+            "Une fois que vous avez terminé tapez:\n",
+            "✳️*COMMENCER*\n"
             
         ],
         "media":"TablaCompFra.pdf", 
@@ -65,7 +68,9 @@
     },
     "STEP_3_1":{
         "replyMessage":[
-            "Now we share with you the following table so that you can compare each of our sections. Once you have finished, type *OK*. \n"
+            "Now we share with you the following table so that you can compare each of our sections.⬇️⬇️  \n",
+            "Once you have finished type: \n",
+            "✳️*OK*. \n"
             
         ],
         "media":"TablaCompIngles.pdf", 
@@ -74,51 +79,39 @@
 
     "STEP_1_2":{
         "replyMessage":[
-            ""
+            "Excelente \n",
+            "¿Cual es la sección de tu agrado? \n",
+            "✅*Francesa* \n",
+            "✅*Inglesa* \n\n",
+
+            "Escribe tu elección:"
         ],
         "media":null,
-        "trigger":null,
-        "actions":{
-            "title":"Excelente",
-            "message":"¿Cual es la sección de tu agrado?",
-            "footer":"Pulsa o escribe tu elección",
-            "buttons":[
-                {"body":"Francesa"},
-                {"body":"Inglesa"}
-            ]
-        }
+        "trigger":null
     },
     "STEP_2_2":{
         "replyMessage":[
-            ""
+            "Excellent \n",
+            "Quelle section vous intéresse le plus? \n",
+            "✅*Française* \n",
+            "✅*Anglaise* \n\n",
+
+            "écrivez votre choix:"
         ],
         "media":null,
-        "trigger":null,
-        "actions":{
-            "title":"Excellent",
-      "message":" Quelle section vous intéresse le plus?",
-            "footer":"Cliquez ou écrivez votre choix",
-            "buttons":[
-                {"body":"Française"},
-                {"body":"Anglaise"}
-            ]
-        }
+        "trigger":null
     },
     "STEP_3_2":{
         "replyMessage":[
-            ""
+            "Excellent \n",
+            "Which section do you like? \n",
+            "✅*French* \n",
+            "✅*English* \n\n",
+
+            "Type your choice:"
         ],
         "media":null,
-        "trigger":null,
-        "actions":{
-            "title":"Excellent",
-            "message":"Which section do you like?",
-            "footer":"Click or type your choice",
-            "buttons":[
-                {"body":"French"},
-                {"body":"English"}
-            ]
-        }
+        "trigger":null
     },
 
     "STEP_1_2_1":{
