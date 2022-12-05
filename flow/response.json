@@ -1,20 +1,17 @@
 {
     "DEFAULT":{
         "replyMessage":[
-            ""
+            "Bienvenido / Bienvenue / Welcome \n",
+            "Lycée Français International Jules Verne \n",
+            "¿Tu idioma? / Ta langue? / your language? \n\n",
+            "1️⃣Español \n",
+            "2️⃣Francés \n",
+            "3️⃣Inglés \n\n",
+            "Escribe un número"
+
         ],
         "media":null,
-        "trigger":null,
-        "actions":{
-            "title":"Bienvenido / Bienvenue / Welcome ",
-            "message":"Lycée Français International Jules Verne",
-            "footer":"¿Tu idioma? / Ta langue? / your language?",
-            "buttons":[
-                {"body":"Español"},
-                {"body":"Français"}, 
-                {"body":"English."} 
-            ]
-        }
+        "trigger":null
     },
     "STEP_0":{
         "replyMessage":[
@@ -25,45 +22,30 @@
     },
     "STEP_1":{
         "replyMessage":[
-            ""
+            "Hola \n",
+            "Es un gusto que te comuniques a Lycée Français International Jules Verne y que estés interesado(a) en nuestro colegio. Permítenos presentarnos, te compartimos un video para comenzar, es importante que lo veas completo: \n https://www.youtube.com/watch?v=a8n-fMupd-g \n",
+            "Al finalizar escribe: \n\n",
+            "✅*Listo* \n"
         ],
-        "media": null,
-        "actions":{
-            "title":"Hola",
-            "message":"Es un gusto que te comuniques a Lycée Français International Jules Verne y que estés interesado(a) en nuestro colegio. Permítenos presentarnos, te compartimos un video para comenzar, es importante que lo veas completo: \n https://www.youtube.com/watch?v=a8n-fMupd-g",
-            "footer":"Al finalizar pulsa el botón",
-            "buttons":[
-                {"body":"Listo"}
-            ]
-        }
+        "media": null
     },
     "STEP_2":{
         "replyMessage":[
-            ""
+            "Bonjour \n",
+            "Merci d’avoir contacté le Lycée Français International Jules Verne et si vous êtes intéressé par notre école, Afin d’en savoir plus sur notre école, nous vous partageons une vidéo explicative, il est important que vous la regardiez dans son intégralité: \n https://www.youtube.com/watch?v=AKMwT6tgPZ4 \n",
+            "A la fin, appuyez ou tapez: \n\n",
+            "✅*Prêt* \n"
         ],
-        "media": null,
-        "actions":{
-            "title":"Bonjour",
-            "message":" Merci d’avoir contacté le Lycée Français International Jules Verne et si vous êtes intéressé par notre école, Afin d’en savoir plus sur notre école, nous vous partageons une vidéo explicative, il est important que vous la regardiez dans son intégralité: \n https://www.youtube.com/watch?v=AKMwT6tgPZ4",
-            "footer":"A la fin, appuyez ou tapez Prêt ",
-            "buttons":[
-                {"body":"Prêt"}
-            ]
-        }
+        "media": null
     },
     "STEP_3":{
         "replyMessage":[
-            ""
+            "Hello \n",
+            "It is a pleasure for us that you contact Lycée Français International Jules Verne and if you are interested in our school, and that you are interested in our school, we share a video to start, it is important that you watch it in its entirety: \n https://www.youtube.com/watch?v=lDMwG7mv_vA \n",
+            "At the end press or type: \n\n",
+            "✅*Ready* \n"
         ],
-        "media": null,
-        "actions":{
-            "title":"Hello",
-            "message":" It is a pleasure for us that you contact Lycée Français International Jules Verne and if you are interested in our school, and that you are interested in our school, we share a video to start, it is important that you watch it in its entirety: \n https://www.youtube.com/watch?v=lDMwG7mv_vA",
-            "footer":"At the end press or type Ready",
-            "buttons":[
-                {"body":"Ready"}
-            ]
-        }
+        "media": null
     },
     "STEP_1_1":{
         "replyMessage":[
