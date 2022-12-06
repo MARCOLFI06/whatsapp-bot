@@ -53,8 +53,8 @@
             "Una vez finalizado escribe: \n",
             "✳️*YA* \n"
         ],
-        "media":"TablaCompEsp.pdf", 
-        "trigger":null
+        "media":"https://drive.google.com/uc?export=download&id=135IxrUjp426GbS2MwuiU2HBM1TchtoNF&name=01SEC.pdf", 
+        "trigger":null 
     },
     "STEP_2_1":{
         "replyMessage":[
@@ -63,7 +63,7 @@
             "✳️*COMMENCER*\n"
             
         ],
-        "media":"TablaCompFra.pdf", 
+        "media":"https://dl.dropbox.com/s/5ymivv0ovfkf8j8/01SEC%20FRANCESA%20PREESCOLAR%20Y%20PRIMARIA%20ESP.pdf", 
         "trigger":null
     },
     "STEP_3_1":{
